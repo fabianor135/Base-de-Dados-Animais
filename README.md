@@ -15,6 +15,10 @@ c)Selecione todos nasceram entre fevereiro e dezembro de 2015:
 d)Selecione todos os animais brancos que pesam menos que 15.0;
 ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/35f7505d-f788-47ef-8905-86023f62bb71)
 
+e)Selecione nome, cor e peso de todos cujo nome comece com ’B’:
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/3fd8c82d-7f73-4546-bca9-a711e7b6524a)
+
+
 
 
 
