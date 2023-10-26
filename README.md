@@ -9,5 +9,9 @@ a)Selecione todos os animais:
 b)Selecione todos os animais que pesam menos que 13.1:
 ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/3599c45f-57fd-4693-864a-15a7d00d5d4f)
 
+c)Selecione todos nasceram entre fevereiro e dezembro de 2015:
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/ae68b08d-6f73-45dd-9edb-c5b6407271aa)
+
+
 
 
