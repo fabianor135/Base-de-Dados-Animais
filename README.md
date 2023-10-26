@@ -7,6 +7,7 @@ a)Selecione todos os animais:
 ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/a3158d6f-ef5d-46f5-87cc-0a7909ec6592)
 
 b)Selecione todos os animais que pesam menos que 13.1:
-![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/9a4df8bb-82c2-4a8d-b328-36107870d041)
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/3599c45f-57fd-4693-864a-15a7d00d5d4f)
+
 
 
