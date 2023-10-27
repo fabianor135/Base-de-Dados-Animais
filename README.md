@@ -44,6 +44,10 @@ Nesta consulta nome LIKE 'C%' significa que estamos procurando nomes que começa
 i)Selecione todos os animais cujo nome contenha 'ba':
 ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/11503996-e3b9-4ee3-b769-01b3358caa71)
 
+j)Selecione todos os animais com peso entre 13.0 à 15.0:
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/6bcfc3a2-986c-4526-858e-5daa6265b330)
+
+
 
 
 
