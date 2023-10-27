@@ -33,6 +33,16 @@ g)Selecione nome, cor, data de nascimento e peso de todos ordenados pelos mais j
 OBS:Nesta consulta, estamos usando a cláusula ORDER BY para ordenar os resultados em ordem crescente com base na coluna "nasc"
 ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/19f49baf-727f-46d4-9e0a-9b959541f5cd)
 
+h)Selecione todos os animais cujo nome comece com 'C' e não sejam brancos:
+
+OBS:Nst caso não havia animais cujo nome comece com 'C' e não sejam brancos foi adicionado a tabela:
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/61da6fa0-a151-4e54-a69c-e860b9f988bb)
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/a93d6a83-cbc1-4b08-bb60-e4cf2438d877)
+
+
+
+
+
 
 
 
