@@ -17,8 +17,18 @@ d)Selecione todos os animais brancos que pesam menos que 15.0;
 
 e)Selecione nome, cor e peso de todos cujo nome comece com ’B’:
 
-obs:Nesta consulta, estamos usando a função LIKE para encontrar registros 
+OBS:Nesta consulta, estamos usando a função LIKE para encontrar registros 
 ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/3fd8c82d-7f73-4546-bca9-a711e7b6524a)
+
+f)Selecione nome, cor e peso de todos com cor vermelha, amarelo, marrom e laranja:
+
+OBS:Na lista não havia animal de cor veermelha foi alterado:
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/dad84c5e-aaf5-4560-a0c5-33df5092c9df)
+
+Nesta consulta, estamos utilizando a cláusula IN para selecionar os registros:
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/f8230beb-d52f-45f4-8f88-a94c284a79a0)
+
+
 
 
 
