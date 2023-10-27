@@ -37,7 +37,8 @@ h)Selecione todos os animais cujo nome comece com 'C' e não sejam brancos:
 
 OBS:Nst caso não havia animais cujo nome comece com 'C' e não sejam brancos foi adicionado a tabela:
 ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/61da6fa0-a151-4e54-a69c-e860b9f988bb)
-![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/a93d6a83-cbc1-4b08-bb60-e4cf2438d877)
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/919cb528-ccb5-456b-a8c1-f65323f1f572)
+
 
 
 
