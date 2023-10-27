@@ -37,6 +37,8 @@ h)Selecione todos os animais cujo nome comece com 'C' e não sejam brancos:
 
 OBS:Nst caso não havia animais cujo nome comece com 'C' e não sejam brancos foi adicionado a tabela:
 ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/61da6fa0-a151-4e54-a69c-e860b9f988bb)
+
+Nesta consulta nome LIKE 'C%' significa que estamos procurando nomes que começam com a letra 'C'seguida de zero ou mais caracteres, significa que estamos excluindo os animais com a cor igual a 'branco':
 ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/919cb528-ccb5-456b-a8c1-f65323f1f572)
 
 
