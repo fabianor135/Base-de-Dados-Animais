@@ -29,9 +29,11 @@ Nesta consulta, estamos utilizando a cláusula IN para selecionar os registros:
 ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/f8230beb-d52f-45f4-8f88-a94c284a79a0)
 
 g)Selecione nome, cor, data de nascimento e peso de todos ordenados pelos mais jovens:
-![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/19f49baf-727f-46d4-9e0a-9b959541f5cd)
 
 OBS:Nesta consulta, estamos usando a cláusula ORDER BY para ordenar os resultados em ordem crescente com base na coluna "nasc"
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/19f49baf-727f-46d4-9e0a-9b959541f5cd)
+
+
 
 
 
