@@ -47,6 +47,16 @@ i)Selecione todos os animais cujo nome contenha 'ba':
 j)Selecione todos os animais com peso entre 13.0 à 15.0:
 ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/6bcfc3a2-986c-4526-858e-5daa6265b330)
 
+h)Selecione todos os animais que o peso não seja maior que 30, com cor amarelo ou roxo e nascidos depois de 2012:
+
+OBS: Ralizei alterações na tabla para que fosse selecionado animais com peso não seja maior que 30, com cor amarelo ou roxo e nascidos depois de 2012 , utilizando a instrução UPDATE:
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/f1ec1e37-362a-49cb-b682-acc47e65f046)
+
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/8f598455-8a0e-444f-90de-5fce5bffba3c)
+
+
+
+
 
 
 
