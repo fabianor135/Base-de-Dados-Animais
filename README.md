@@ -54,6 +54,15 @@ OBS: Realizei alterações na tabela para atender a solicitação de animais com
 ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/8f598455-8a0e-444f-90de-5fce5bffba3c)
 
 
+Desafio:
+Selecione todos os capricornianos:
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/9a08c4bb-2c1d-413b-a9f2-c5532a8ec01f)
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/3e15011b-b69a-4bb7-8f23-3cee7b946a5f)
+
+
+
+
+
 
 
 
