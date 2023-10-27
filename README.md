@@ -49,7 +49,7 @@ j)Selecione todos os animais com peso entre 13.0 à 15.0:
 
 h)Selecione todos os animais que o peso não seja maior que 30, com cor amarelo ou roxo e nascidos depois de 2012:
 
-OBS: Ralizei alterações na tabla para que fosse selecionado animais com peso não seja maior que 30, com cor amarelo ou roxo e nascidos depois de 2012 , utilizando a instrução UPDATE:
+OBS: Realizei alterações na tabela para atender a solicitação de animais com peso não seja maior que 30, com cor amarelo ou roxo e nascidos depois de 2012 , utilizando a instrução UPDATE:
 ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/57586443-93d6-4736-ae37-63917a4a69bf)
 ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/8f598455-8a0e-444f-90de-5fce5bffba3c)
 
