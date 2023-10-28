@@ -81,7 +81,7 @@ Faça a modelagem relacional, DER.
 ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/54c39823-b795-4eea-8efd-c1b5b91a7b09)
 
 Insira pelo menos 8 Produtos e 3 Marcas.
-![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/ce62d45e-3886-4ba8-bb03-a7ffa763a84f
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/9dd273ab-1cbe-44bd-a1c0-c4333110f9ff)
 ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/dcc89ea6-e2fd-4e5c-a2c3-710cffd7c7f9)
 ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/85e47797-44e8-4313-9df5-acf8984d8fc2)
 
