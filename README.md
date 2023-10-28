@@ -85,6 +85,20 @@ Insira pelo menos 8 Produtos e 3 Marcas.
 ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/dcc89ea6-e2fd-4e5c-a2c3-710cffd7c7f9)
 ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/85e47797-44e8-4313-9df5-acf8984d8fc2)
 
+3) Crie um banco de dados para registrar dados de Filmes e Categorias. Um filme tem seu título, sinopse, estudio e categoria. Uma categoria deve ter nome e público alvo.
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/46fb9900-2452-4740-a4e8-dbe1192a0c21)
+
+Faça a modelagem relacional, DER.
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/9f9c386c-8073-4c4d-9330-c0e16de2d416)
+
+Insira pelo menos 8 Filmes e 3 Categorias.
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/21cfade1-3e10-43bf-adfd-133f30e69c8e)
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/897088b7-0bca-4111-af98-7bdcf1517732)
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/d17e6bc6-b3f9-4101-9c7c-4666e3779319)
+
+
+
+
 
 
 
