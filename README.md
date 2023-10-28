@@ -63,6 +63,15 @@ Selecione todos os capricornianos:
 
 ## ETAPA 2
 
+1) Crie um banco de dados para armazenar dados de Animais e Espécies. Um animal tem seu nome, data_nasc e peso. Uma espécie tem um nome e uma descrição.
+   ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/5968d17c-4544-4c77-b0d4-1abf3b35613e)
+
+
+
+Faça a modelagem relacional, DER.
+
+Insira pelo menos 8 animais e 3 espécies.
+
 
 
 
