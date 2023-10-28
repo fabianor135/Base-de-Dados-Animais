@@ -74,6 +74,20 @@ Insira pelo menos 8 animais e 3 espécies.
 ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/9050e86d-38c5-4272-9316-6f973af974ba)
 ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/5a3ca055-a2b9-4d7f-afda-3a0cc1473589)
 
+2) Crie um banco de dados para registrar dados de Produtos e Marcas. Um produto deve ter nome, preço de custo, preço de venda, data de validade e marca. Uma marca deve ter, nome, site oficial e telefone:
+3) ![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/0cfdbd6b-d314-4e3a-a40c-9113c6540ba4)
+
+Faça a modelagem relacional, DER.
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/54c39823-b795-4eea-8efd-c1b5b91a7b09)
+
+Insira pelo menos 8 Produtos e 3 Marcas.
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/ce62d45e-3886-4ba8-bb03-a7ffa763a84f
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/dcc89ea6-e2fd-4e5c-a2c3-710cffd7c7f9)
+![image](https://github.com/fabianor135/Base-de-Dados-Animais/assets/84815028/85e47797-44e8-4313-9df5-acf8984d8fc2)
+
+
+
+
 
 
 
