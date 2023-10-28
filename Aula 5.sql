@@ -77,6 +77,24 @@ amarelo ou roxo e nascidos depois de 2012*/
 SELECT * FROM Animais
 WHERE peso <= 30 AND (cor = 'amarelo' OR cor = 'roxo') AND nasc > '2012-12-31';
 
+UPDATE animais
+SET signo =
+  CASE
+    WHEN (MONTH(nasc) = 3 AND DAY(nasc) >= 21) OR (MONTH(nasc) = 4 AND DAY(nasc) <= 19) THEN 'Áries'
+    WHEN (MONTH(nasc) = 4 AND DAY(nasc) >= 20) OR (MONTH(nasc) = 5 AND DAY(nasc) <= 20) THEN 'Touro'
+    WHEN (MONTH(nasc) = 5 AND DAY(nasc) >= 21) OR (MONTH(nasc) = 6 AND DAY(nasc) <= 20) THEN 'Gêmeos'
+    WHEN (MONTH(nasc) = 6 AND DAY(nasc) >= 21) OR (MONTH(nasc) = 7 AND DAY(nasc) <= 22) THEN 'Câncer'
+    WHEN (MONTH(nasc) = 7 AND DAY(nasc) >= 23) OR (MONTH(nasc) = 8 AND DAY(nasc) <= 22) THEN 'Leão'
+    WHEN (MONTH(nasc) = 8 AND DAY(nasc) >= 23) OR (MONTH(nasc) = 9 AND DAY(nasc) <= 22) THEN 'Virgem'
+    WHEN (MONTH(nasc) = 9 AND DAY(nasc) >= 23) OR (MONTH(nasc) = 10 AND DAY(nasc) <= 22) THEN 'Libra'
+    WHEN (MONTH(nasc) = 10 AND DAY(nasc) >= 23) OR (MONTH(nasc) = 11 AND DAY(nasc) <= 21) THEN 'Escorpião'
+    WHEN (MONTH(nasc) = 11 AND DAY(nasc) >= 22) OR (MONTH(nasc) = 12 AND DAY(nasc) <= 21) THEN 'Sagitário'
+    WHEN (MONTH(nasc) = 12 AND DAY(nasc) >= 22) OR (MONTH(nasc) = 1 AND DAY(nasc) <= 19) THEN 'Capricórnio'
+    WHEN (MONTH(nasc) = 1 AND DAY(nasc) >= 20) OR (MONTH(nasc) = 2 AND DAY(nasc) <= 18) THEN 'Aquário'
+    ELSE 'Peixes'
+  END;
+
+/*executado pelo chat.openai.com*/
 
 /*Selecione todos os capricornianos*/
 SELECT * FROM Animais
